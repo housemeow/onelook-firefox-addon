@@ -2,7 +2,7 @@
   "name": "onelook-addon",
   "title": "onelook-addon",
   "id": "jid1-7JnTBUkHZqfJbQ",
-  "description": "a basic add-on",
+  "description": "A addon can lookup text you selected via onelook dictionary",
   "author": "Kelly",
   "license": "MPL 2.0",
   "version": "0.1"
